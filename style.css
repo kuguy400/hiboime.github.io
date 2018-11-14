@@ -9,5 +9,10 @@
   width: 400px;
   font-family: courier;
 }
-
+.paragraph2{
+  color: blue;
+  text-transform: capitalize;
+  margin: 0 auto;
+  width: 400px;
+}
 
