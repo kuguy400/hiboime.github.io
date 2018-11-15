@@ -1,5 +1,5 @@
 .paragraph1{
-  color: black;
+  color: cyan;
   text-transform: capitalize;
   margin: 0 auto;
   width: 400px;
@@ -8,6 +8,7 @@
   width: 400px;
   font-family: courier;
   margin-left: 20px;
+  color: cyan;
 }
 
 
